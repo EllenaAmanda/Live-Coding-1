@@ -3,7 +3,7 @@ let input = 3;
 let angkaDicari;
 
 for (let i=0; i < arrNum.length; i++){
-    if(arrNum[0]===input){
-        input
+    if(arrNum[0] === input){
+        console.log(input)        
     }
 }
